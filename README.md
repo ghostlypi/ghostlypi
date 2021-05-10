@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ghostlypi
+- 👀 I’m interested in - building my own operating system (based on linux of course)
+- 🌱 I would like to learn - databases
+- 📫 How to reach me - email to contact.parthiyer.com
