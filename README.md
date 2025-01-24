@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ghostlypi
-- 👀 I’m interested in - building my own operating system (based on linux of course)
-- 🌱 I would like to learn - databases
-- 📫 How to reach me - email to contact.parthiyer.com
+- 👋 Hi, I’m Parth Iyer (@ghostlypi)
+- 👀 I’m interested in - Static Code Analysis & Log Monitoring
+- 🌱 I would like to learn - Generating Unit Tests using LLMs
+- 📫 How to reach me - email to parth.iyer@gmail.com
